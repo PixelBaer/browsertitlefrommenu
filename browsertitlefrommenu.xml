@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="4.0" type="plugin" group="system" method="upgrade">
+	<name>plg_system_browsertitlefrommenu</name>
+	<author>Marek Krzemien | makr</author>
+	<creationDate>August 2024</creationDate>
+	<copyright>Copyright (C) 2024 Marek Krzemien</copyright>
+	<license>-was auch immer dein herz begehrt-</license>
+	<authorEmail>hello@makr.at</authorEmail>
+	<authorUrl>www.makr.at</authorUrl>
+	<version>0.01</version>
+	<description>Replace Browser Title with Menu item Title (instead article title)</description>
+	<files>
+		<filename plugin="browsertitlefrommenu">browsertitlefrommenu.php</filename>
+	</files>
+</extension>
